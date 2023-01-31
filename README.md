@@ -17,21 +17,4 @@ Provides a small program that takes a GitHub account name as input, and displays
 To run the program, run the command "python3 GitHubStats.py" in the command line (make sure the command line path is set to the GitHubStats folder you downloaded. Also make sure that you have python installed).
 The program will promt the user to enter a GitHub account name, and will then display the stats for that account, after which another account name can be inputted. Alternatively, "end session" can be inputted to end the program. Some example input:
 
-\>python3 GitHubStats.py
-
-Enter a GitHub username, or type "end session" to stop:
-
-\>FrederikGantzel
-
-Stats for FrederikGantzel:
-
-  \- Oldest repo: FrederikClusteringAlgorithms
-  
-  \- Favorite Language: Python
-  
-  \- Licenses used: None
-
-Enter a GitHub username, or type "end session" to stop:
-
-\>end session
-
+![image](https://user-images.githubusercontent.com/91853323/215629942-2f93bbea-690d-4089-8edd-bbbf23e7598c.png)
